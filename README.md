@@ -22,4 +22,5 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi d
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-![Kodlarımız](kodlar.png)
+![Kodlarımız](2022-04-09.png)
+[patika](https://www.patika.dev/tr)
